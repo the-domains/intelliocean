@@ -1,0 +1,28 @@
+name: intelliocean
+favicon: null
+layout_spectrum: 0.37598278280347586
+typography_spectrum: 0.4890134525485337
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5728431046009064
+  lightness: 0.4625908632297069
+  saturation: 0.9836356337182224
+  rhythmicContrast: 0.9509779165964574
+purpose: []

@@ -2,6 +2,7 @@ name: intelliocean
 favicon: null
 layout_spectrum: 0.37598278280347586
 typography_spectrum: 0.4890134525485337
+title: IntelliOcean
 cta:
   domain: null
   bucket: null
